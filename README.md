@@ -40,13 +40,11 @@ This project is licensed under the [GPL2 License](LICENSE.md) - see the file for
 If you use this software in your research, please cite it as follows:
 
 ```
-@misc{amiraz2023recovery,
-      title={Recovery Guarantees for Distributed-{OMP}}, 
-      author={Chen Amiraz and Robert Krauthgamer and Boaz Nadler},
-      year={2023},
-      eprint={2209.07230},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+@article{amiraz2023recovery,
+	title={Recovery Guarantees for Distributed-{OMP}}, 
+	author={Chen Amiraz and Robert Krauthgamer and Boaz Nadler},
+	year={2023},
+	journal={arXiv preprint arXiv:2209.07230},
 }
 ```
 
