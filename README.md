@@ -41,7 +41,7 @@ If you use this software in your research, please cite it as follows:
 
 ```
 @misc{amiraz2023recovery,
-      title={Recovery Guarantees for Distributed-OMP}, 
+      title={Recovery Guarantees for Distributed-{OMP}}, 
       author={Chen Amiraz and Robert Krauthgamer and Boaz Nadler},
       year={2023},
       eprint={2209.07230},
