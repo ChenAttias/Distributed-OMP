@@ -40,11 +40,13 @@ This project is licensed under the [GPL2 License](LICENSE.md) - see the file for
 If you use this software in your research, please cite it as follows:
 
 ```
-@article{amiraz2023recovery,
+@inproceedings{amiraz2024recovery,
 	title={Recovery Guarantees for Distributed-{OMP}}, 
 	author={Chen Amiraz and Robert Krauthgamer and Boaz Nadler},
-	year={2023},
-	journal={arXiv preprint arXiv:2209.07230},
+	year={2024},
+	booktitle={International Conference on Artificial Intelligence and Statistics},
+	organization={PMLR},
+	note={To appear},
 }
 ```
 
