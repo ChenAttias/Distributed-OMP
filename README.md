@@ -49,7 +49,7 @@ If you use this software in your research, please cite it as follows:
   volume = 	 {238},
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {02--04 May},
-  publisher =    {PMLR},
+  publisher =    {PMLR}
 }
 
 ```
