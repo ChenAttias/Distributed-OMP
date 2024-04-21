@@ -41,13 +41,17 @@ If you use this software in your research, please cite it as follows:
 
 ```
 @inproceedings{amiraz2024recovery,
-	title={Recovery Guarantees for Distributed-{OMP}}, 
-	author={Chen Amiraz and Robert Krauthgamer and Boaz Nadler},
-	year={2024},
-	booktitle={International Conference on Artificial Intelligence and Statistics},
-	organization={PMLR},
-	note={To appear},
+  title = 	 {Recovery Guarantees for Distributed-{OMP}},
+  author =       {Amiraz, Chen and Krauthgamer, Robert and Nadler, Boaz},
+  booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {802--810},
+  year = 	 {2024},
+  volume = 	 {238},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--04 May},
+  publisher =    {PMLR},
 }
+
 ```
 
 ## Contact
